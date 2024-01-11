@@ -19,6 +19,7 @@ section {
   margin-bottom: 30px;
   padding: 15px;
   border: 1px solid black;
+  border-style: dotted;
     border-radius:20px;
 }
 
